@@ -1,0 +1,25 @@
+h1{
+    color:blueviolet
+    
+}
+
+p{
+    color: red;
+}
+/** aplicar el estilo al qie tenga el id de priemr parrado**/
+#miprimerparrafo{
+    color:green;
+    
+}
+
+.grupodeparrafos{
+    color: blue;
+}
+
+h1:hover{
+    color: black;
+}
+
+p:hover{
+    color: orange;
+}

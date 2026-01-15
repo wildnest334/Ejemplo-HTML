@@ -1,0 +1,22 @@
+#contenedor p{
+    color: blue;
+}
+
+#contenedor p:first-child{
+font-size:  17px;
+font-weight: 300;
+}
+
+#contenedor p:last-child{
+
+color: brown;
+}
+
+
+#contenedor p:nth-child(odd){
+font-size:  italic;
+cursor: pointer;   
+}
+#contenedor p:nth-child(5){
+text-align: center;   
+}
